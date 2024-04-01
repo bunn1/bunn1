@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bunn1" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page />
 
 # Hi there 👋, My name is Niclas Bunn
 ### Web Developer
