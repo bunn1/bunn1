@@ -1,10 +1,13 @@
-### Hi there 👋, My name is Niclas Bunn
-#### Web Developer
+# Hi there 👋, My name is Niclas Bunn
+### Web Developer
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I´m Niclas Bunn from Sweden, and I do content on Design and Development. I really enjoy learning languages and frameworks like React as well as work in WordPress. I also enjoy ui, ux and design in general.
 
-Skills: REACT / JS / HTML / CSS / FIGMA
+## Skills and Experience: 
+🎱 REACT
+🎈 HTML, CSS, JS
+🚦 FIGMA
 
 - 🔭 I’m currently working on different React Apps 
 - 📫 How to reach me: nicjohbun@gmail.com 
