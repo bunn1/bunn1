@@ -12,10 +12,17 @@ I´m Niclas Bunn from Sweden, and I do content on Design and Development. I real
 
 <br/>
 
-## Skills and Experience: 
-🎱 REACT
-🎈 HTML, CSS, JS
-🚦 FIGMA
+<h2 align="center">⚒️ Languages ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
 
 - 🔭 I’m currently working on different React Apps 
 - 📫 How to reach me: nicjohbun@gmail.com 
