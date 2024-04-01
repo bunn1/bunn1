@@ -4,8 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Niclas+Bunn!;" />
 </h1>
 
-### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h3 align="center">A passionate Frontend Devoloper from Sweden!</h3>
 
 I´m Niclas Bunn from Sweden, and I do content on Design and Development. I really enjoy learning languages and frameworks like React as well as work in WordPress. I also enjoy ui, ux and design in general.
 
