@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 # Hi there 👋, My name is Niclas Bunn
 ### Web Developer
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
