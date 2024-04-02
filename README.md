@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 <hr />
 Web Developer
--------------
+
 
 I´ve been learnin to code for almost 3 years. I really enjoy learning languages and frameworks like React as well as work in WordPress. I also enjoy ui, ux and design in general.
 
